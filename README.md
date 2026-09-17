@@ -1,6 +1,7 @@
 # shopping-demo
 This is my first git repository.
 <br>
-Author:Darshana(main)
+Author:Darshana
+<br>
 I am learning Git and GitHub
 
